@@ -5,6 +5,15 @@
     {
       "weight": 1,
       "element": {
+        "location": "lios_outlandish_villages:spiral_tower_village/base/c7b",
+        "processors": "lios_outlandish_villages:replace_water_with_sand_flowers",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
         "location": "lios_outlandish_villages:spiral_tower_village/bridge/a1",
         "processors": "lios_outlandish_villages:replace_water_with_sand",
         "projection": "rigid",
@@ -21,7 +30,7 @@
       }
     },
     {
-      "weight": 500,
+      "weight": 100,
       "element": {
         "location": "lios_outlandish_villages:spiral_tower_village/bridge/a3",
         "processors": "lios_outlandish_villages:replace_water_with_sand",
@@ -30,7 +39,7 @@
       }
     },
     {
-      "weight": 20,
+      "weight": 1,
       "element": {
         "location": "lios_outlandish_villages:spiral_tower_village/bridge/a4",
         "processors": "lios_outlandish_villages:replace_water_with_sand",
