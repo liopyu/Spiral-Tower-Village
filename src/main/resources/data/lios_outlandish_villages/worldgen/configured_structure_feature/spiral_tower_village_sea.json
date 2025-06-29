@@ -1,0 +1,9 @@
+{
+  "type": "bastion_remnant",
+  "biomes": "#lios_outlandish_villages:has_structure/spiral_tower_village_sea",
+  "spawn_overrides": {},
+  "config": {
+    "start_pool": "lios_outlandish_villages:spiral_tower_village/base/anchor",
+    "size": 4
+  }
+}

@@ -8,3 +8,4 @@ displayName = "${mod_name}"
 description = '''
 ${mod_description}
 '''
+logoFile="spiral_tower_village.png"

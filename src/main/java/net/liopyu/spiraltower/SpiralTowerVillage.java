@@ -1,4 +1,4 @@
-package net.liopyu.lov;
+package net.liopyu.spiraltower;
 import net.minecraftforge.fml.common.Mod;
 
 @Mod("spiral_tower_village")
